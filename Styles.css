@@ -2,3 +2,10 @@
     color: rgb(255, 255, 0);
 }
 
+img{
+    width: 50%;
+    max-width: 2000px;
+    height: auto;
+    display: block;
+    color: rgb(221, 37, 37);
+}
